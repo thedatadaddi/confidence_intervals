@@ -1,0 +1,11 @@
+2022.02.23 17:25:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\spenc\Desktop\DS_HW3\.metals\lsp.trace.json or C:\Users\spenc\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.02.23 17:25:43 INFO  logging to file C:\Users\spenc\Desktop\DS_HW3\.metals\metals.log
+2022.02.23 17:25:43 INFO  Started: Metals version 0.11.1 in workspace 'C:\Users\spenc\Desktop\DS_HW3' for client Visual Studio Code 1.64.2.
+2022.02.23 17:25:43 INFO  Parse release: 11.0.11
+2022.02.23 17:25:46 INFO  time: initialize in 3.4s
+2022.02.23 17:25:47 WARN  Build server is not auto-connectable.
+2022.02.23 17:25:47 WARN  no build tool detected in workspace 'C:\Users\spenc\Desktop\DS_HW3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.02.23 17:25:47 WARN  no build target for: C:\Users\spenc\Desktop\DS_HW3\hw3_ex14\src\main\scala\hw3\CH3.13-EX14\ci.scala
+2022.02.23 17:25:51 INFO  no build target found for C:\Users\spenc\Desktop\DS_HW3\hw3_ex14\src\main\scala\hw3\CH3.13-EX14\ci.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.02.23 17:25:54 INFO  time: code lens generation in 6.6s
+2022.02.23 23:42:14 INFO  shutting down Metals
